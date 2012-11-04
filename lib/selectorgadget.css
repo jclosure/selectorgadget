@@ -53,10 +53,12 @@ div#_sg_div{
   widows: 2 !important;
   width: auto !important;
   word-spacing: normal !important;
-
   position:fixed !important;
   z-index:9999999 !important;
-  display:block !important;
+  
+  /* display:block !important; */
+  display: none;
+
   right:5px !important;
   margin:5px !important;
   padding:5px !important;
@@ -159,7 +161,7 @@ div#_sg_div input{
   position:absolute !important;
   z-index:999999 !important;
   background:white !important;
-  background-color:orange !important;
+  background-color:green !important;
   margin:0px !important;
   padding:0px !important;
   display:block !important;
@@ -175,7 +177,7 @@ div#_sg_div input{
   padding:2px 0px 2px 5px !important;
 }
 .sg_border_red{
-  background-color:#F00 !important;
+  background-color:blue !important;
 }
 .sg_highlighted{
 }
