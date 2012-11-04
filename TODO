@@ -1,3 +1,4 @@
 TODO:
  - Look into using :nth-of-type(n)
  - Fix bug with Reddit.
+ - Make configurable what shows in botton border.
