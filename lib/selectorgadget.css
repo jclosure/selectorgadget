@@ -159,9 +159,9 @@ div#_sg_div input{
 }
 .sg_border{
   position:absolute !important;
-  z-index:999999 !important;
+  z-index:999997 !important;
   background:white !important;
-  background-color:green !important;
+  background-color:red !important; /* HOVER - BORDER COLOR HERE */
   margin:0px !important;
   padding:0px !important;
   display:block !important;
